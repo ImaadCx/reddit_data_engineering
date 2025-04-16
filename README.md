@@ -1,2 +1,0 @@
-# reddit_data_engineering
-reddit_de_project
